@@ -1,0 +1,25 @@
+baseURL = "https://ashishsaini.work/"
+languageCode = "en-us"
+title = "Ashish Saini"
+theme = "PaperMod"
+
+[params]
+    author = "Ashish Saini"
+    description = "Technical Blog - AI, Video Generation, Cloud Infrastructure"
+    keywords = ["AI", "Video Generation", "Cloud", "Development"]
+    
+[menu]
+    [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+    
+    [[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+    
+    [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 3
