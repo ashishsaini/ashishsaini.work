@@ -1,7 +1,7 @@
 baseURL = "https://ashishsaini.work/"
 languageCode = "en-us"
 title = "Ashish Saini"
-theme = "PaperMod"
+theme = "hugo-porto"
 
 [params]
     author = "Ashish Saini"
